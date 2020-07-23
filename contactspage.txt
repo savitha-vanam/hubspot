@@ -1,1 +1,2 @@
-verifying contacts page
+verifying contacts page 
+new changes
